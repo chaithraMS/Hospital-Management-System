@@ -9,7 +9,7 @@ public class CreateTest {
 		System.out.println("updated");
 		System.out.println("apple");
        System.out.println("mango");
-       System.out.println("Orange");
+       System.out.println("Orange ");
 	}
 
 }
