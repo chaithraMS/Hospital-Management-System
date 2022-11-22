@@ -8,8 +8,12 @@ public class CreateTest {
 		
 		System.out.println("updated");
 		System.out.println("apple");
+
+		
        System.out.println("mango");
        System.out.println("jackfruit");
+      
+       System.out.println("BANNANA");
 	}
 
 }
