@@ -10,8 +10,5 @@ public class Sample1Test {
 		System.out.println("from test-1");
 	}
 	
-	@Test(groups="regression")
-	public void test2() {
-		System.out.println("from test-2");
-	}
+	
 }
